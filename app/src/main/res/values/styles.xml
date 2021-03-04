@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="simpleText">
+        <item name="android:text">@string/app_name</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/darkOrange</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:paddingTop">20dp</item>
+    </style>
+
+    <style name="amount">
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_marginBottom">30dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="percentTextStyle">
+        <item name="android:text">@string/percentText</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="tip">
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:text">@string/tip</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="total">
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:text">@string/total</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:text">@string/result</item>
+        <item name="android:backgroundTint">@color/orangeBackground</item>
+        <item name="android:textColor">@color/darkOrange</item>
+        <item name="android:textSize">36sp</item>
+        <item name="strokeColor">#FFD345</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+
+    <style name="author">
+        <item name="android:padding">5dp</item>
+        <item name="android:text">@string/author</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="resultInputs">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

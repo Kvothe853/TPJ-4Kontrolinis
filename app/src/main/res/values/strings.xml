@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Percent Counter</string>
+    <string name="amount">Enter amount</string>
+    <string name="percentText">0</string>
+    <string name="tip">TIP</string>
+    <string name="total">TOTAL</string>
+    <string name="result">Result</string>
+    <string name="author">Airidas Smirnovas</string>
+</resources>
